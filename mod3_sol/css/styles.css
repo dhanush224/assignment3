@@ -1,0 +1,28 @@
+#header-nav{
+	background-color: #696969;
+	border-radius: 0;
+	border: 1.5px solid black;
+}
+.navbar-header a{
+	font-size: 30px;
+	color: black;
+}
+nav>div.container{
+	width: 100%;
+	margin-left: 0;
+	margin-right: 0;
+	padding: 0;
+	padding-right: -20px;
+	float: right;
+    
+}
+.navbar-header a:hover, .navbar-header a:focus{
+	text-decoration: none;
+} 
+#button
+{
+	background-color: white;
+	float: right;
+	border: 1px solid black; 
+	margin-right: 0: 
+}
